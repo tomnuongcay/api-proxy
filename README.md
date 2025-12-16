@@ -1,1 +1,1 @@
-# api-proxy
+# api-proxy for using silverbullet
